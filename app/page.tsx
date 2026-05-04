@@ -20,7 +20,7 @@ export default function Home() {
           </Reveal>
 
           <Reveal delay={0.06}>
-            <h2 className="h-display text-[13vw] sm:text-[10vw] md:text-[7.5vw] font-semibold mt-8 leading-[0.92] max-w-[14ch]">
+            <h2 className="h-display text-[10vw] sm:text-[8vw] md:text-[5.5vw] font-semibold mt-8 leading-[0.92] max-w-[14ch]">
               Growth that{" "}
               <em className="not-italic text-accent italic">compounds</em>,<br />
               not campaigns<br />that fade.
