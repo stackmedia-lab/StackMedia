@@ -107,7 +107,7 @@ export default function Contact() {
                 </p>
               </div>
             ) : (
-              <form onSubmit={handleSubmit} className="space-y-5">
+              <form action="https://formspree.io/f/meenkoky" method="POST" onSubmit={handleSubmit} className="space-y-5">
                 <div>
                   <h2 className="font-display text-2xl mb-6">Start a project</h2>
                 </div>
